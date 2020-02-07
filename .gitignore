@@ -3,3 +3,6 @@
 
 # Ignore Go Mod
 go.sum
+
+# Ignore Build
+bin/
